@@ -1,0 +1,14 @@
+Write Up Link: https://uflorida-my.sharepoint.com/:w:/g/personal/rsuthar_ufl_edu/EWWFeQvZSpJBppdOPv1jBqABxaWJqeHjX9qQkglYn5K0mg?e=PQfO8p
+
+Papers:
+Genre Recognition: http://ijet.pl/index.php/ijet/article/view/10.2478-eletel-2014-0042/53
+DeepSpeech Speech Recognition: https://arxiv.org/abs/1412.5567
+Genre Recognition: http://benanne.github.io/2014/08/05/spotify-cnns.html
+Genre Classification review: https://ieeexplore.ieee.org/ielx5/79/33613/01598089.pdf?tp=&arnumber=1598089&isnumber=33613&tag=1
+Cook 2002 Genre Classification using GITZAN dataset: https://ieeexplore.ieee.org/document/1021072
+
+Great Gits:
+Genre Recognition: https://github.com/deepsound-project/genre-recognition
+DeepSpeech Speech Recognition: https://github.com/mozilla/DeepSpeech
+
+
